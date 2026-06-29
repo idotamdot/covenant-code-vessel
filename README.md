@@ -32,7 +32,7 @@ The initial governed projects are:
 - Loc-Geist
 - Sanctuary / Tangelica Initiative
 - Sigilographics Digital
-- Up My Game
+- Austin AI Software
 - HOLYSPIRIT Experiment
 
 Each project remains its own living system, but each can point back to this vessel for shared principles, boundaries, review rules, and repair standards.
