@@ -20,6 +20,31 @@ How does this help the user, client, visitor, contributor, reviewer, or administ
 
 [Write the value.]
 
+## Plain-Language Requirement
+
+Does this feature use technical words or acronyms?
+
+If yes, define them in plain language.
+
+Acronyms must be followed by their meaning the first time they appear.
+
+Examples:
+
+* AI (Artificial Intelligence)
+* API (Application Programming Interface)
+* URL (Uniform Resource Locator)
+* UI (User Interface)
+* UX (User Experience)
+* CMS (Content Management System)
+* CRM (Customer Relationship Management)
+* SEO (Search Engine Optimization)
+* DNS (Domain Name System)
+* SSL (Secure Sockets Layer)
+* MFA (Multi-Factor Authentication)
+* RLS (Row-Level Security)
+
+If a nontechnical person would need to stop and search the term, define it.
+
 ## Governing Covenant Principles
 
 Select all that apply:
@@ -78,7 +103,7 @@ Who could be affected?
 
 ## AI Involvement
 
-Describe any AI involvement.
+Describe any AI (Artificial Intelligence) involvement.
 
 Include:
 
@@ -159,6 +184,7 @@ What should this feature never be used for?
 The feature is complete when:
 
 * purpose is clear
+* technical words and acronyms are defined
 * transparency requirement is met
 * consent model is defined
 * provenance is recorded
