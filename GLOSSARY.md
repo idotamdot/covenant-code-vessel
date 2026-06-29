@@ -1,5 +1,25 @@
 # Glossary
 
+
+## Acronym Rule
+
+An acronym is a shortened form of a longer phrase, such as AI, API, URL, UI, UX, CMS, CRM, SEO, DNS, SSL, or MFA.
+
+In Covenant Code, acronyms must be followed by their meaning the first time they appear.
+
+Correct:
+
+> AI (Artificial Intelligence)
+
+Incorrect:
+
+> AI
+
+Technical language should not assume prior knowledge.
+
+If a word or acronym may be unfamiliar to a nontechnical person, define it in plain language.
+
+
 ## Covenant Code
 
 Software architecture aligned to truth, transparency, dignity, consent, continuity, living revision, provenance, stewardship, repair, accessibility, lawful boundaries, human flourishing, signal clarity, and protective privacy.

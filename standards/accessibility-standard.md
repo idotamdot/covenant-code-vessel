@@ -1,194 +1,261 @@
-# Memory and Consent Standard
+# Accessibility Standard
 
 ## Purpose
 
-The Memory and Consent Standard defines how Covenant Code systems may collect, preserve, transform, display, restrict, revise, expire, or release memory.
+The Accessibility Standard defines how Covenant Code systems reduce confusion, exclusion, disability barriers, technical gatekeeping, economic unfairness, and unrecoverable errors.
 
-Memory is powerful.
+Accessibility is not decoration.
 
-Memory can preserve truth, relationship, continuity, authorship, and repair.
-
-Memory can also become surveillance, punishment, manipulation, dependency, or identity imprisonment.
+Accessibility is part of dignity, transparency, consent, repair, and human flourishing.
 
 ## Core Rule
 
-Remember enough to preserve truth and repair.
+A system is not truly powerful if only experts can safely use it.
 
-Do not remember so much that memory becomes a cage.
+## Required Accessibility Commitments
 
-## Consent Rule
+Covenant Code systems should support:
 
-A system must define what it collects, remembers, transforms, publishes, automates, or shares.
+* plain language
+* readable interfaces
+* clear next steps
+* recoverable errors
+* disability access
+* understandable ownership terms
+* visible pricing and recurring costs
+* clear AI involvement labels
+* understandable consent choices
+* low-shame onboarding
+* support for people with limited technical experience
 
-Consent must be specific enough to be meaningful.
+## Plain Language
 
-Consent can change where change is reasonably supportable.
+Use plain language wherever users, clients, contributors, or visitors need to make decisions.
 
-## Memory Types
+Avoid jargon unless the audience clearly needs it.
 
-### Operational Memory
-
-Memory required for the system to function.
-
-Examples:
-
-* account settings
-* project preferences
-* billing state
-* access level
-* feature configuration
-
-### Provenance Memory
-
-Memory required to understand origin, authorship, source, review, and revision.
+When technical terms are necessary, define them.
 
 Examples:
 
-* creator
-* timestamp
-* source reference
-* audit trail
-* correction history
-* model involvement
+Instead of:
 
-### Relational Memory
+> Source ownership
 
-Memory about relationship, return visits, gifts, letters, preferences, or meaningful interaction.
+Use:
 
-Requires extra care.
+> Ownership of the software code, website files, copy, images, and account access.
 
-### Interpretive Memory
+Instead of:
 
-Memory that summarizes or interprets a person, project, event, belief, or pattern.
+> Time to ship
 
-Requires living revision support.
+Use:
 
-### Protected Memory
+> Time to completed project.
 
-Memory whose exposure could violate dignity, consent, safety, confidentiality, or fair self-renewal.
+Instead of:
 
-### Retired Memory
+> Stack
 
-Memory no longer used as current representation but preserved for audit, accountability, or historical context.
+Use:
 
-## Required Consent Questions
+> The tools and services used to build and run the project.
 
-Before storing memory, answer:
 
-1. What is remembered?
-2. Why is it remembered?
-3. Who can see it?
-4. Who can change it?
-5. Can consent change later?
-6. Can it be restricted?
-7. Can it expire?
-8. Is it current truth, historical record, interpretation, or symbolic memory?
-9. Could it unfairly freeze someone in an outdated version?
-10. What is the repair path?
+## Acronyms and Technical Words
 
-## Changed Consent
+Acronyms must be followed by their meaning the first time they appear.
 
-Where possible, systems should support:
+Use this format:
 
-* withdrawal
-* restriction
-* revision
-* expiration
-* changed visibility
-* changed use
-* updated self-representation
+* AI (Artificial Intelligence)
+* API (Application Programming Interface)
+* URL (Uniform Resource Locator)
+* UI (User Interface)
+* UX (User Experience)
+* CMS (Content Management System)
+* CRM (Customer Relationship Management)
+* SEO (Search Engine Optimization)
+* DNS (Domain Name System)
+* SSL (Secure Sockets Layer)
+* MFA (Multi-Factor Authentication)
+* RLS (Row-Level Security)
 
-Changed consent should preserve accountability where needed without forcing unnecessary public permanence.
+Do not assume the reader knows technical words.
 
-## Living Revision
+When a technical term is necessary, explain it in plain language immediately.
 
-People change.
+Example:
 
-A memory should not automatically remain current truth forever.
+Instead of:
 
-Covenant Code should support:
+> Configure DNS records for the domain.
 
-* annotation
-* correction
-* retraction
-* retirement
-* expiration
-* updated self-representation
-* contextualization
-* forgiveness where appropriate
-* preservation of audit history without public punishment
+Use:
 
-## Memory Labels
+> Configure DNS (Domain Name System) records. DNS is the setting that tells the internet where your website lives.
 
-Use labels where appropriate:
+Instead of:
 
-* current
-* historical
-* corrected
-* disputed
-* symbolic
-* inferred
-* AI-generated
-* human-authored
-* user-provided
-* restricted
-* retired
-* expired
+> Enable MFA.
 
-## Memory Visibility
+Use:
 
-Use visibility states where appropriate:
+> Enable MFA (Multi-Factor Authentication). This means signing in with more than one proof of identity, such as a password plus a code from your phone.
 
-* public
-* user_visible
-* admin_only
-* restricted
-* protected
-* retired
+Instead of:
 
-## Memory and AI
+> Update the API route.
 
-When AI summarizes or transforms memory:
+Use:
 
-* label AI involvement
-* preserve source context
-* allow correction where appropriate
-* avoid treating summaries as complete truth
-* avoid turning old memory into current identity
-* avoid generating emotional dependency
-* record human review status where needed
+> Update the API (Application Programming Interface) route. An API route is the server-side address that lets one part of the system safely talk to another part.
 
-## Protective Privacy
+Acronyms should not be used as a gatekeeping shortcut.
 
-Privacy is a protective boundary.
+If a nontechnical person would need to stop and search the term, define it.
 
-Use privacy when openness would:
 
-* violate consent
-* expose someone to harm
-* reveal protected information
-* compromise safety
-* break lawful confidentiality
-* prevent fair living revision
 
-Privacy must not be used to hide extraction, deception, missing sources, ownership confusion, or system failure.
+## Consent Accessibility
+
+Consent is not meaningful if the user cannot understand what they are agreeing to.
+
+Consent language should explain:
+
+* what is collected
+* what is remembered
+* what is shared
+* what AI uses
+* what is public
+* what is private
+* what can be changed later
+* what cannot reasonably be undone
+* who to contact for correction or repair
+
+## AI Accessibility
+
+When AI is involved, explain:
+
+* what AI does
+* what AI does not do
+* what a human reviews
+* what may be wrong
+* how to challenge or correct output
+* whether the output is draft, recommendation, inference, or verified record
+
+## Economic Accessibility
+
+Economic accessibility includes visible cost, visible recurring obligations, and fair exit paths.
+
+Systems should avoid:
+
+* hidden fees
+* unclear subscriptions
+* dependency traps
+* account ownership confusion
+* surprise third-party costs
+* forced upgrades
+* unclear cancellation paths
+
+## Error Accessibility
+
+Errors should be recoverable.
+
+A good error message explains:
+
+* what happened
+* what the user can do next
+* whether anything was saved
+* whether support or review is needed
+* whether the issue affects money, memory, consent, visibility, or publication
+
+Avoid errors that blame the user for unclear system design.
+
+## Interface Accessibility
+
+Where applicable, interfaces should support:
+
+* keyboard navigation
+* readable contrast
+* visible focus states
+* semantic HTML
+* clear labels
+* alt text for meaningful images
+* captions or transcripts for media
+* responsive layouts
+* screen reader compatibility
+* avoid motion that cannot be paused
+* forms with clear validation messages
+
+## Cognitive Accessibility
+
+Covenant Code should respect cognitive load.
+
+Support:
+
+* short sections
+* visible progress
+* plain labels
+* examples
+* confirmation before irreversible actions
+* summary before submission
+* clear distinction between draft and final states
+* no unnecessary urgency
+* no manipulative countdowns
+* no shame-based messaging
+
+## Sacred-Boundary Accessibility
+
+Features touching sacred-boundary areas require extra clarity.
+
+Sacred-boundary areas include:
+
+* identity
+* memory
+* grief
+* children
+* money
+* legal status
+* health or safety
+* spiritual language
+* AI personhood claims
+* evidence or forensic claims
+* authorship
+* consent
+* private communications
+* reputation
+* irreversible public record
+* emotional dependency
+
+For these features, the user should understand:
+
+* what is happening
+* why it matters
+* what can go wrong
+* what will be remembered
+* what can be changed
+* what is public
+* what is protected
+* what repair path exists
 
 ## Forbidden Patterns
 
-Do not use memory to:
+Do not use inaccessible design to:
 
-* surveil without purpose
-* trap users in old identities
-* preserve grief for engagement
-* manipulate emotional dependency
-* hide data use
-* bypass consent
-* imply AI lived experience
-* erase correction history
-* expose protected people unnecessarily
-* treat interpretation as verified record
-* keep private communications beyond purpose
+* hide costs
+* hide ownership terms
+* hide AI involvement
+* pressure users
+* create dependency
+* obscure consent
+* make cancellation difficult
+* make correction difficult
+* make users feel foolish
+* bury important information
+* turn confusion into sales leverage
 
 ## Completion Rule
 
-A memory feature is not complete until it defines memory purpose, consent model, visibility, provenance, living revision path, protective boundary, failure mode, and repair path.
+An accessibility review is complete when the feature is understandable, usable, recoverable, consent-aware, repair-aware, and safe enough for non-expert users.
