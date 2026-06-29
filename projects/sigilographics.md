@@ -49,6 +49,39 @@ Sigilographics must make clear:
 - what credentials or accounts the client controls
 - what happens if the client leaves
 
+
+
+## Plain-Language Requirement
+
+Sigilographics Digital must not assume clients know technical words.
+
+Acronyms must be followed by their meaning the first time they appear.
+
+Examples:
+
+- AI (Artificial Intelligence)
+- API (Application Programming Interface)
+- URL (Uniform Resource Locator)
+- UI (User Interface)
+- UX (User Experience)
+- CMS (Content Management System)
+- CRM (Customer Relationship Management)
+- SEO (Search Engine Optimization)
+- DNS (Domain Name System)
+- SSL (Secure Sockets Layer)
+- MFA (Multi-Factor Authentication)
+
+When a technical word is necessary, Sigilographics Digital must define it in plain language.
+
+Example:
+
+> DNS (Domain Name System) is the setting that tells the internet where your website lives.
+
+Language must never be used as gatekeeping, pressure, or sales leverage.
+
+If a nontechnical client would need to stop and search the term, define it.
+
+
 ## Required Boundaries
 
 Sigilographics must not:
