@@ -62,6 +62,7 @@ Each project remains its own living system, but each can point back to this vess
 covenant-code-vessel/
 ├─ README.md
 ├─ INDEX.md
+├─ USAGE.md
 ├─ COVENANT.md
 ├─ PRINCIPLES.md
 ├─ PROVENANCE.md

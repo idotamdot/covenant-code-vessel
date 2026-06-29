@@ -24,6 +24,13 @@ Use this when introducing the repository.
 
 ## Support Documents
 
+### `USAGE.md`
+
+The practical guide for using Covenant Code Vessel.
+
+Use this when starting a project, planning a feature, reviewing AI involvement, writing for nontechnical readers, recording decisions, requesting sources, repairing failures, or preparing a release.
+
+
 ### `PROVENANCE.md`
 
 Defines how origin, authorship, evidence, AI (Artificial Intelligence) involvement, human review, uncertainty, consent, visibility, living revision, and repair status are preserved.
