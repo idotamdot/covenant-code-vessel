@@ -126,6 +126,10 @@ A step-by-step review checklist for project charters.
 
 Use this before adding a new project to Covenant Code Vessel.
 
+### `checklists/release-readiness.checklist.md`
+
+A checklist for confirming a Covenant Code project, feature set, standard update, or vessel release is ready.
+
 ## Schemas
 
 ### `schemas/covenant-principle.ts`
