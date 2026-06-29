@@ -83,6 +83,37 @@ Every interview, report, proposal, demo, recommendation, client decision, contra
 - ownership terms
 - maintenance obligations
 
+
+## Plain-Language Requirement
+
+Austin AI Software must not assume clients know technical words.
+
+Acronyms must be followed by their meaning the first time they appear.
+
+Examples:
+
+- AI (Artificial Intelligence)
+- API (Application Programming Interface)
+- URL (Uniform Resource Locator)
+- UI (User Interface)
+- UX (User Experience)
+- CMS (Content Management System)
+- CRM (Customer Relationship Management)
+- SEO (Search Engine Optimization)
+- DNS (Domain Name System)
+- SSL (Secure Sockets Layer)
+- MFA (Multi-Factor Authentication)
+
+When a technical word is necessary, Austin AI Software must define it in plain language.
+
+Example:
+
+> API (Application Programming Interface) means a safe way for one part of the software to talk to another part.
+
+Language must never be used as gatekeeping, pressure, or sales leverage.
+
+If a nontechnical client would need to stop and search the term, define it.
+
 ## Living Revision
 
 Small-business needs change quickly.
