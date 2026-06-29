@@ -61,6 +61,7 @@ Each project remains its own living system, but each can point back to this vess
 ```txt
 covenant-code-vessel/
 ├─ README.md
+├─ INDEX.md
 ├─ COVENANT.md
 ├─ PRINCIPLES.md
 ├─ PROVENANCE.md
@@ -81,6 +82,10 @@ covenant-code-vessel/
 │  ├─ source-request.protocol.md
 │  ├─ audit-trail.protocol.md
 │  └─ repair-loop.protocol.md
+├─ checklists/
+│  ├─ covenant-feature-review.checklist.md
+│  ├─ project-charter.checklist.md
+│  └─ release-readiness.checklist.md
 ├─ schemas/
 │  ├─ covenant-principle.ts
 │  ├─ covenant-decision.ts
