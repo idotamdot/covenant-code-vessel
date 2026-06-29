@@ -16,8 +16,9 @@ We do not treat speed as wisdom.
 We do not treat automation as permission to erase responsibility.
 We do not use privacy language to hide harm.
 We do not use truth as a cage.
+We do not use technical language as gatekeeping.
 
-We build systems that preserve dignity, clarify signal, respect consent, record provenance, support living revision, honor lawful boundaries, make purpose transparent, and provide repair paths.
+We build systems that preserve dignity, clarify signal, respect consent, record provenance, support living revision, honor lawful boundaries, make purpose transparent, define technical language, and provide repair paths.
 
 The purpose of Covenant Code is not merely to make software function.
 
@@ -47,9 +48,40 @@ Private where protection is required.
 Auditable always.
 Merciful with living people.
 
+## Plain-Language Requirement
+
+Covenant Code must not assume the reader knows technical words.
+
+Acronyms must be followed by their meaning the first time they appear.
+
+Examples:
+
+* AI (Artificial Intelligence)
+* API (Application Programming Interface)
+* URL (Uniform Resource Locator)
+* UI (User Interface)
+* UX (User Experience)
+* CMS (Content Management System)
+* CRM (Customer Relationship Management)
+* SEO (Search Engine Optimization)
+* DNS (Domain Name System)
+* SSL (Secure Sockets Layer)
+* MFA (Multi-Factor Authentication)
+* RLS (Row-Level Security)
+
+When a technical word is necessary, define it in plain language.
+
+Example:
+
+> API (Application Programming Interface) means a safe way for one part of the software to talk to another part.
+
+Language must never be used as gatekeeping, pressure, or sales leverage.
+
+If a nontechnical person would need to stop and search the term, define it.
+
 ## Completion Rule
 
-A feature is not complete until its purpose, human consequence, transparency requirement, consent model, failure mode, lawful boundary, provenance requirement, living revision impact, and repair path are known.
+A feature is not complete until its purpose, human consequence, transparency requirement, consent model, plain-language requirement, failure mode, lawful boundary, provenance requirement, living revision impact, and repair path are known.
 
 ## Core Commitments
 
@@ -57,6 +89,7 @@ Covenant Code must:
 
 * preserve truth
 * make purpose transparent
+* define acronyms and technical words in plain language
 * protect dignity
 * respect consent
 * support changed consent where possible
@@ -88,6 +121,9 @@ Covenant Code must not support:
 * privacy used to hide exploitation
 * truth used to imprison living people
 * public permanence where living revision is required
+* technical language used as gatekeeping
+* acronyms used without explanation
+* jargon used to create dependency or confusion
 
 ## Operating Question
 
